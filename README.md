@@ -33,4 +33,4 @@
   
   
   
-[1] : www.naver.com
+[1]:http://www.naver.com
